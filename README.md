@@ -1,2 +1,2 @@
 # English-thesaurus
-English thesaurus using json and difflib modules
+English thesaurus using json and difflib 
